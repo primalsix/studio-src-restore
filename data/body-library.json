@@ -1,1 +1,7 @@
-x
+{
+  "version": "2026-09-13-instagram-embed",
+  "status": "CloudAgent ingest in flight — Library API already has 764 drills",
+  "run": "run-0505e074-1c9d-4a2c-8261-4dfcadcd160f",
+  "source": "/workspace/sensei/drill-library/BODY-LIBRARY.json",
+  "api": "https://paidtoexiststudio.vercel.app/api/body/library"
+}
